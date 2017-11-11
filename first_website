@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Cooding Rocks!</title>
+</head>
+
+<body style = "background-color: royalblue;">
+	<h1 style = "background-color: red;">Python and Html</h1>
+	<h6 style = "background-color: powderblue;"style = "background-color: royalblue;">Making Games and Websites!</h6>
+	<p style = "background-color: yellow;">They are both fun to use!</p>
+	<a href = "https://soundcloud.com/naser-white">My Soundcloud Link</a>
+	<br>
+	<a href = "https://www.pottermore.com">Pottermore </a>
+	<br>
+	<img src ="cena.png" alt="Cena in hospital" width ="400" height = "300">
+
+</body>
+
+</html>
